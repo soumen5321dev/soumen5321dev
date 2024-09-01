@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumen Das</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" alt="data analyst" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*mY7-_HseAw99fBS9Cb3tSw.gif">
 
