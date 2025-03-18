@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soumen Das</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Graphic Designer at Insu Creation</h3>
 
 <img align="right" alt="data analyst" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*mY7-_HseAw99fBS9Cb3tSw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumen5321dev&label=Profile%20views&color=0e75b6&style=flat" alt="soumen5321dev" /> </p>
 
-- 🌱 I’m currently learning **Data Analyst tools**
-
-- 👨‍💻 All of my projects are available at [https://github.com/soumen5321dev](https://github.com/soumen5321dev)
+- 🌱 I’m currently working as a Graphic Designer at **Insu Creation**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/soumendas06/](https://www.linkedin.com/in/soumendas06/)
 
