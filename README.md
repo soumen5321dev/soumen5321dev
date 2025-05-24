@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumen5321dev&label=Profile%20views&color=0e75b6&style=flat" alt="soumen5321dev" /> </p>
 
-- 🌱 I’m currently working as a Graphic Designer at **Insu Creation**
-
+- 🌱 I’m currently solving problems on Leetcode
 - 📝 I regularly write articles on [https://www.linkedin.com/in/soumendas06/](https://www.linkedin.com/in/soumendas06/)
 
 - 📫 How to reach me **soumendas357966@gmail.com**
